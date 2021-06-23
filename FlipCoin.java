@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ximport java.util.Scanner;
 import java.util.Random;
 public class FlipCoin {
     public static void main (String[]args){
